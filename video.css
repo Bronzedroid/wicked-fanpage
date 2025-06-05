@@ -407,13 +407,6 @@ button, a {
 }
 
 @media screen and (max-width: 768px) {
-    .img-pequena{
-        width: 100%;
-        flex-direction: column;
-    }
-}
-
-@media screen and (max-width: 768px) {
     .footer_content{
         width: 100%;
         flex-direction: column;
