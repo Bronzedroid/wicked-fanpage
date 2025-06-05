@@ -406,6 +406,26 @@ button, a {
     pointer-events: none;
 }
 
+@media screen and (max-width: 768px) {
+    .img-pequena{
+        width: 100%;
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .footer_content{
+        width: 100%;
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .videoao{
+        width: 50%;
+        flex-direction: column;
+    }
+}
 
 <body>
 </html>
